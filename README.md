@@ -26,7 +26,7 @@ Proyek ini bertujuan untuk menganalisis data pada E-Commerce Public Dataset. Tuj
 
    ```shell
    pip install streamlit
-   pip install -r requirements.txt
+   pip install -r dashboard/requirements.txt
    ```
 
 ## Penggunaan
